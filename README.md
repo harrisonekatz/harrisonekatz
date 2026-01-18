@@ -1,16 +1,16 @@
-## Hi there 👋
+<![CDATA[![Header](./github_header.png)
 
-<!--
-**harrisonekatz/harrisonekatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a statistician/data scientist working on forecasting at Airbnb.
 
-Here are some ideas to get you started:
+📈 I develop Bayesian compositional time series methods, including the B-DARMA and B-DARCH frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 I write [papers](https://scholar.google.com/citations?user=0_TiSfYAAAAJ&hl=en) on tourism demand forecasting, probabilistic prediction, and hierarchical time series.
+
+🔗 [harrisonekatz.com](https://harrisonekatz.com)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harrisonekatz&show_icons=true&theme=dark&hide_border=true&bg_color=1e3a2f&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonekatz&layout=compact&theme=dark&hide_border=true&bg_color=1e3a2f&title_color=ffffff&text_color=ffffff)
+]]>
