@@ -11,4 +11,3 @@
 ---
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonekatz&layout=compact&theme=dark&hide_border=true&bg_color=1e3a2f&title_color=ffffff&text_color=ffffff)
